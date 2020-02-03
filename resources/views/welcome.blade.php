@@ -16,7 +16,13 @@
     </head>
     <body>
         <div id="app">
-            <main-component></main-component>
+             <header-component></header-component>
+
+             <main-component></main-component>
+
+             <footer-component>
+
+             </footer-component>
         </div>
     </body>
 </html>

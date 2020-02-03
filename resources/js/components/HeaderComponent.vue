@@ -7,7 +7,7 @@
 <script>
     export default {
         mounted() {
-            console.log('MainComponent mounted.')
+            console.log('HeaderComponent mounted.')
         }
     }
 </script>
